@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Trip to galicia",
+    "slug": "trip-to-galicia",
+    "image": "post1.jpg",
+    "date": "2022-02-20T06:20:39.541Z",
+    "content": "Lorem ipsum dolor sit amet, ei zril alienum pro. Fabellas vituperata te duo, debet verear eripuit ei mei, animal postulant ut his. Legere euripidis te vis, ius no primis posidonium. Regione dolorum per ad. Eu dolore tibique gloriatur duo, ne nostrum luptatum nec. Tollit mentitum eam et."
+  },
+  {
+    "title": "My first post with my new camera",
+    "slug": "my-first-post",
+    "image": "post1.jpg",
+    "date": "2022-02-20T06:20:39.541Z",
+    "content": "Lorem ipsum dolor sit amet, ei zril alienum pro. Fabellas vituperata te duo, debet verear eripuit ei mei, animal postulant ut his. Legere euripidis te vis, ius no primis posidonium. Regione dolorum per ad. Eu dolore tibique gloriatur duo, ne nostrum luptatum nec. Tollit mentitum eam et."
+  },
+  {
+    "title": "Sunset photos",
+    "slug": "sunset-photos",
+    "image": "post4.jpg",
+    "date": "2022-03-03T06:20:39.541Z",
+    "content": "Eius insolens mel eu, hinc justo adversarium cu vix. Doctus molestiae cu vel. Eu vel nostro periculis. Nec saepe officiis ea, ex qui vocibus periculis, an sed timeam tincidunt. Cu vide labitur has, eam ex similique conceptam conclusionemque. Te cibo minim qui."
+  },
+  {
+    "title": "Trip to the mountains",
+    "slug": "trip-to-the-mountains",
+    "image": "post3.jpg",
+    "date": "2022-04-14T06:20:39.541Z",
+    "content": "Usu ad verear facilis, nusquam antiopam et vim, facilis expetenda ne duo. Has ne omnis tincidunt forensibus, eum ne congue signiferumque. At putant singulis mei, in dico fabellas expetendis mei, quo ad soluta epicurei. Te gloriatur delicatissimi mel. Sint molestiae suscipiantur ea quo."
+  },
+  {
+    "title": "Black & White",
+    "slug": "black-white",
+    "image": "post2.jpg",
+    "date": "2022-06-15T06:20:39.541Z",
+    "content": "Et duo instructior suscipiantur, omnesque rationibus usu cu. At vis idque tantas voluptua, ad oratio meliore nusquam pro, mundi vituperatoribus an nec. Stet putent tamquam eos cu, amet sumo legere vel at, an alterum assentior qui. Consul moderatius vel eu, mel malis constituto te. Dolore graecis assentior ut pro, cum ad dolores salutandi. Ei vidisse elaboraret ius, cum ne harum solet dolorum. In nec vocibus convenire sadipscing, pro veritus facilisis ex, posse laoreet scaevola est ea."
+  },
+  {
+    "title": "The photo from the frontpage",
+    "slug": "frontpage-photo",
+    "image": "frontpage.jpg",
+    "date": "2022-06-17T06:20:39.541Z",
+    "content": "Et duo instructior suscipiantur, omnesque rationibus usu cu. At vis idque tantas voluptua, ad oratio meliore nusquam pro, mundi vituperatoribus an nec. Stet putent tamquam eos cu, amet sumo legere vel at, an alterum assentior qui. Consul moderatius vel eu, mel malis constituto te. Dolore graecis assentior ut pro, cum ad dolores salutandi. Ei vidisse elaboraret ius, cum ne harum solet dolorum. In nec vocibus convenire sadipscing, pro veritus facilisis ex, posse laoreet scaevola est ea."
+  }
+]
